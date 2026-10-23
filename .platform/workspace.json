@@ -1,0 +1,5 @@
+{
+  "buildSystem": "native",
+  "language": "kotlin",
+  "projectName": "mac_back_infishi"
+}
